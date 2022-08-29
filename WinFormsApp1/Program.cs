@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace OOP2_Lab1
 {
     internal static class Program
     {
